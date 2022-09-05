@@ -1,0 +1,110 @@
+.header-section img{
+    width: 120px;
+    height: auto;
+}
+.header-section{
+    background: #3498db;
+}
+.main-menu{}
+.main-menu ul{
+    margin-bottom: 0;
+    text-align: right;
+}
+.main-menu ul li{
+    display: inline-block;
+    margin-left: -4px;
+}
+.main-menu ul li a {
+	display: block;
+	padding: 0 30px;
+	color: #fff;
+	font-size: 16px;
+	line-height: 95px;
+    border-right: 1px solid #ddd;
+}
+
+/* banner-section */
+.banner-section{
+    background-image: url(./image/tutorial-computer-900x288.jpg);
+    padding: 200px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner-section h1{
+    background: rgba(52, 152, 219,.6);
+    color: #fff;
+    max-width: 500px;
+    margin: auto;
+    margin-top: auto;
+    font-size: 40px;
+    padding: 10px 0;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+.banner-section h2{
+    background: rgba(0,0,0,.4);
+    color: #fff;
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 34px;
+    border-radius: 5px;
+    margin-top: 20px;
+
+}
+/* about-section */
+.about-section{
+    background: #ecf0f1;
+}
+
+/* service-section */
+.service-section{
+    background-color: #f9f9f9;
+}
+.card span{
+    display: block;
+    height: 60px;
+    width: 60px;
+    background: #3498db;
+    color: white;
+    margin: auto;
+    font-size: 35px;
+    line-height: 60px;
+    border-radius: 20px 0 20px 0;
+    margin-bottom: 10px;
+
+
+}
+/* content-section */
+img{
+    max-width: 100%;
+}
+.content-item p{
+    font-size: 18px;
+}
+.content-item img{
+    width: 160px;
+    
+}
+.product-right ul {
+	list-style: none;
+	padding-left: 0;
+}
+.product-right ul li {
+	background: #f7f7f7;
+	margin-bottom: 10px;
+	padding: 10px;
+	border-radius: 5px;
+	font-size: 18px;
+}
+/* footer-section */
+.footer-section{
+    background-color: #2c3e50;
+}
+.footer-section p{
+    margin-bottom: 0;
+}
+.footer-section a{
+    color: #fff;
+    margin-left: 15px;
+    display: inline-block;
+}
